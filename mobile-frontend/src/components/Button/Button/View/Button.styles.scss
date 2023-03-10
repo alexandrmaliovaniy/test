@@ -1,0 +1,13 @@
+.Button {
+  height: 60px;
+  padding: 12px 40px;
+  border: none;
+  font-size: 16px;
+  border-radius: 24px;
+  font-family: "Urbanist";
+  font-weight: 700;
+
+  &.Wide {
+    width: 100%;
+  }
+}

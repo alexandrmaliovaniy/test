@@ -1,0 +1,19 @@
+.WalkthroughDisplay {
+  width: 100%;
+  height: calc(100% - 400px);
+  overflow: hidden;
+
+  img {
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+  }
+
+  .Img {
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+  }
+}

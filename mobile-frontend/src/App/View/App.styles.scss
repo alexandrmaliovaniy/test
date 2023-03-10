@@ -1,0 +1,21 @@
+:root {
+  --primary: #a4634d;
+  --secondary: #f6efed;
+  --gray: #dedede;
+}
+
+html, body, #root {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  font-family: 'Urbanist', sans-serif;
+  letter-spacing: 1px;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}

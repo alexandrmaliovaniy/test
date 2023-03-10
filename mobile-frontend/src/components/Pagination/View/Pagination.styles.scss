@@ -1,0 +1,16 @@
+.Pagination {
+  display: inline-flex;
+  gap: 8px;
+
+  .Dot {
+    width: 10px;
+    height: 10px;
+    background: var(--gray);
+    border-radius: 8px;
+  }
+
+  .ActiveDot {
+    width: 32px;
+    background: var(--primary);
+  }
+}

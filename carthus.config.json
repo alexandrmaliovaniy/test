@@ -1,0 +1,17 @@
+{
+  "extensions": [
+    "@carthus/react"
+  ],
+  "alias": {
+    "@component": "./src/components",
+    "@pages": "./src/pages"
+  },
+  "flag": {
+    "cm": {
+      "scss": true
+    },
+    "data": {
+      "qwe": "123"
+    }
+  }
+}
